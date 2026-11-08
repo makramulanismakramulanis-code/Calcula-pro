@@ -1,0 +1,6 @@
+{
+  "name": "Calcula Pro",
+  "description": "All-in-one smart calculator featuring Finance, Business & Tax, Math, Converters, Health, Date & Time, and Construction calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
